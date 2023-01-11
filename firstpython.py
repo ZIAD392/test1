@@ -1,2 +1,2 @@
 #what a code
-name='hi there'
+name='hi there' age= 26
